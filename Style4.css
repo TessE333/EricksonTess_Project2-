@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+h1 {font-family: "";
+color:aquamarine;
+text-align: top left;
+margin-top: 40px;
+font-size: 20px }
+
+h2 { text-align: center}
+
+h4 {border: solid #F2EAEA thin;
+	margin-right: 40px }
+
+
+body { background-image: url("circle2.gif")}
+
+p {text-align: left; }
+
+h1,h2,h4,p{color:white;
+font-family: ""}
+
+nav {color: white; 
+ text-align:  right; }
+
+
+

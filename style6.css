@@ -1,0 +1,7 @@
+@charset "utf-8";
+
+h1 { color: white;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+font-size: 20PX }
+
+body { background-image: url("face detection (1).gif")}
